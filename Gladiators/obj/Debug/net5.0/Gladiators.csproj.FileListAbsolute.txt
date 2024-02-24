@@ -1,0 +1,16 @@
+D:\Gladiators\Gladiators\bin\Debug\net5.0\Gladiators.exe
+D:\Gladiators\Gladiators\bin\Debug\net5.0\Gladiators.deps.json
+D:\Gladiators\Gladiators\bin\Debug\net5.0\Gladiators.runtimeconfig.json
+D:\Gladiators\Gladiators\bin\Debug\net5.0\Gladiators.runtimeconfig.dev.json
+D:\Gladiators\Gladiators\bin\Debug\net5.0\Gladiators.dll
+D:\Gladiators\Gladiators\bin\Debug\net5.0\ref\Gladiators.dll
+D:\Gladiators\Gladiators\bin\Debug\net5.0\Gladiators.pdb
+D:\Gladiators\Gladiators\obj\Debug\net5.0\Gladiators.csproj.AssemblyReference.cache
+D:\Gladiators\Gladiators\obj\Debug\net5.0\Gladiators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gladiators\Gladiators\obj\Debug\net5.0\Gladiators.AssemblyInfoInputs.cache
+D:\Gladiators\Gladiators\obj\Debug\net5.0\Gladiators.AssemblyInfo.cs
+D:\Gladiators\Gladiators\obj\Debug\net5.0\Gladiators.csproj.CoreCompileInputs.cache
+D:\Gladiators\Gladiators\obj\Debug\net5.0\Gladiators.dll
+D:\Gladiators\Gladiators\obj\Debug\net5.0\ref\Gladiators.dll
+D:\Gladiators\Gladiators\obj\Debug\net5.0\Gladiators.pdb
+D:\Gladiators\Gladiators\obj\Debug\net5.0\Gladiators.genruntimeconfig.cache
